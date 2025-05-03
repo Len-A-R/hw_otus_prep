@@ -1,0 +1,17 @@
+{
+  "name": "hw_otus_prep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Len-A-R/hw_otus_prep.git"
+  },
+  "keywords": [],
+  "author": "Lenar Akhmetshin <len-a-r@mail.ru>",
+  "license": "ISC",
+  "description": "",
+  "homepage": "https://github.com/Len-A-R/hw_otus_prep#readme"
+}
